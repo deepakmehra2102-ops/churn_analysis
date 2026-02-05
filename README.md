@@ -56,10 +56,10 @@ The dashboard also highlights high-risk customer segments based on activity stat
 ## Dashboard Screenshots
 
 ### Page 1: Executive Overview
-![Executive Overview](screenshots/page1_executive_overview.png)
+![Executive Overview](Screenshots/page1_executive_overview.png)
 
 ### Page 2: Demographic Churn Analysis
-![Demographic Analysis](screenshots/page2_demographic_analysis.png)
+![Demographic Analysis](Screenshots/page2_demographic_analysis.png)
 
 ### Page 3: Financial Drivers of Customer Churn
-![Financial Drivers](screenshots/page3_financial_drivers.png)
+![Financial Drivers](Screenshots/page3_financial_drivers.png)
