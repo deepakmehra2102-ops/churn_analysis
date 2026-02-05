@@ -64,6 +64,3 @@ The dashboard also highlights high-risk customer segments based on activity stat
 ### Page 3: Financial Drivers of Customer Churn
 ![Financial Drivers](screenshots/page3_financial_drivers.png)
 
-
-on Rate =
-1 - [Churn Rate]
