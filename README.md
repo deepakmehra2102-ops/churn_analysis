@@ -65,24 +65,5 @@ The dashboard also highlights high-risk customer segments based on activity stat
 ![Financial Drivers](screenshots/page3_financial_drivers.png)
 
 
-## DAX Calculations
-
-Some key measures created using DAX:
-
-```DAX
-Total Customers = COUNT(Customer_Data[CustomerID])
-
-Churned Customers =
-CALCULATE(
-    COUNT(Customer_Data[CustomerID]),
-    Customer_Data[Churn] = "Churned"
-)
-
-Churn Rate =
-DIVIDE(
-    [Churned Customers],
-    [Total Customers]
-)
-
-Retention Rate =
+on Rate =
 1 - [Churn Rate]
