@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Analysis-Dashboard
+# Bank-Customer-Churn-Analytics-Dashboard
 
 ### Dashboard Type : Power BI Desktop (Local Project)
 
